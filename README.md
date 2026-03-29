@@ -1,0 +1,1 @@
+# Voice-Query-AI---Speech-to-SQL-System-project
