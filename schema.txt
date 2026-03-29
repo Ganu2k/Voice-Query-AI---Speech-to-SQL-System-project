@@ -1,0 +1,6 @@
+Table: employees
+Columns:
+- id (integer)
+- name (text)
+- department (text)
+- salary (integer)
